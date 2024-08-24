@@ -108,6 +108,36 @@ We are here to help you be successful with Bicep, please do not hesitate to reac
 * If you need help or have a generic question such as ‘where can I find an example for…’ or ‘I need help converting my ARM Template to Bicep’ you can [open a discussion]( https://github.com/Azure/bicep/discussions)
 * If you have a bug to report or a new feature request for Bicep please [open an issue]( https://github.com/Azure/bicep/issues)
 
+## Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Reference
 
 * [Complete language spec](https://docs.microsoft.com/azure/azure-resource-manager/bicep/file)
